@@ -1,0 +1,29 @@
+/* general */
+.twpRight{text-align: right;width: 100%;display: block;}
+.twpboxsetup{border-radius: 10px;padding:15px;max-width:355px;margin-top:30px;Background:#fff;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.twpboxsetup h2{text-align:center;margin-top:3px;}
+
+/* about page */
+#twptitlelogo{
+  text-align:center;
+  box-shadow:2px 3px 8px 1px #555;
+  width:90px;
+  border-radius:50%;
+  font-size:48px;
+  padding-bottom:10px;
+  padding-left:14px;
+  padding-right:10px;
+  font-weight:bold;
+  color:#fff;
+  background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.twpFlex{
+  margin-top: 56px;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+/* adminpage */
+.twpalabel{width:240px;padding-top:12px;display:inline-block;font-size:14px;}
+.twpallabel{width:52px;display:inline-block;font-size:14px;}
+#twpredirect input{width:170px;display:flex;}
